@@ -1,6 +1,6 @@
 # Implementation-of-SVM-For-Spam-Mail-Detection.
-## NAME : KAVIBHARATHI K
-## REG NO : 212224220045
+# NAME : B V REVANTH KUMAR
+# REG NO : 212224240023
 
 ## AIM:
 To write a program to implement the SVM For Spam Mail Detection.
